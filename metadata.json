@@ -1,0 +1,6 @@
+{
+  "name": "EcoLens AI",
+  "description": "AI-powered waste sorting and material circularity analyzer using Gemini vision to classify recyclable and non-recyclable items with contamination diagnostics and second-life insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
